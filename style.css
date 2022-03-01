@@ -1,0 +1,66 @@
+body {
+    background-color: #222;
+    color: #ffffff;
+  font-family: Symbol;
+  margin: auto;
+  padding: 2em;
+  max-width: 700px;
+  display: flex;
+  align-items: flex-start;
+  font-size: 10pt;
+  font-weight: lighter;
+}
+
+div
+    
+
+div#contact {
+  text-align: center;
+  font-size: 12pt;
+}
+
+#initials, 
+h1,
+h2 {
+  text-align: center;
+  font-family: Optima, monospace;
+  font-weight: lighter;
+   
+
+}
+
+
+h2 {
+  border-bottom: rgb(150, 146, 146) 2px;
+  margin: 1rem 0;
+  padding-bottom: 2rem;
+  border-radius: 50% 20% / 10% 40%;
+
+    margin: 3%;   
+    padding: 1%;  
+    background: rgb(105, 105, 105);
+    
+}
+
+#initials {
+  font-family: century-gothic;
+  font-size: 4em;
+
+  padding: 1rem;
+  border-bottom: rgb(255, 255, 255) solid 3px;
+}
+
+h1 {
+  margin-bottom: 0.75em;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif, monospace;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.date-range {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}

@@ -1,3 +1,3 @@
 Tania Velasquez Castillo
 
-https://github.com/taniactl/Taniasresume.git
+https://taniactl.github.io/Taniasresume/
